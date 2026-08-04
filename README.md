@@ -2,17 +2,14 @@
 
 BSCS Student from Pakistan 🇵🇰
 
-🌱 Currently Learning DevOps
 
-💻 Learning
+## 🌱 Currently Learning
 
 - Linux
-- Git
-- GitHub
+- Git & GitHub
 - Docker
 - Kubernetes
 - AWS
-
 📫 Reach me
 
 LinkedIn:
@@ -20,11 +17,9 @@ https://www.linkedin.com/in/maryam-waqass?utm_source=share_via&utm_content=profi
 
 ## 🛠 Tech Stack
 
-- Python
-- Git
-- GitHub
-- Linux
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
+</p>
 <!--
 **maryamwaqas2810-hue/maryamwaqas2810-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

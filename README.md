@@ -17,6 +17,14 @@ BSCS Student from Pakistan 🇵🇰
 
 LinkedIn:
 https://www.linkedin.com/in/maryam-waqass?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+## 🛠 Tech Stack
+
+- Python
+- Git
+- GitHub
+- Linux
+- VS Code
 <!--
 **maryamwaqas2810-hue/maryamwaqas2810-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

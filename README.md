@@ -47,7 +47,7 @@ BSCS Student from Pakistan 🇵🇰
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maryamwaqas2810-hue&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maryamwaqas2810-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ## 📈 Contribution Graph
@@ -57,8 +57,6 @@ BSCS Student from Pakistan 🇵🇰
 </p>
 
 📫 Reach me
-
-LinkedIn:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">

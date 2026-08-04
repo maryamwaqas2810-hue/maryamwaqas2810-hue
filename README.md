@@ -5,11 +5,10 @@ BSCS Student from Pakistan 🇵🇰
 
 ## 🌱 Currently Learning
 
-- Linux
-- Git & GitHub
-- Docker
-- Kubernetes
-- AWS
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,aws" />
+</p>
+
 📫 Reach me
 
 LinkedIn:

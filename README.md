@@ -41,13 +41,13 @@ BSCS Student from Pakistan 🇵🇰
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maryamwaqas2810-hue&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=maryamwaqas2810-hue&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maryamwaqas2810-hue&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maryamwaqas2810-hue&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ## 📈 Contribution Graph
@@ -59,9 +59,12 @@ BSCS Student from Pakistan 🇵🇰
 📫 Reach me
 
 LinkedIn:
-https://www.linkedin.com/in/maryam-waqass?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 

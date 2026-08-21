@@ -46,35 +46,6 @@
 
 ```text
 Linux → Git & GitHub → Networking → AWS → Docker → CI/CD → Kubernetes
-```
-
-I'm learning through **hands-on practice, labs and projects** rather than only studying theory.
-
----
-
-### 📌 What I'm Working On
-
-* 🐧 Practicing Linux commands and system fundamentals
-* 🔀 Improving my Git & GitHub workflow
-* 🌐 Learning networking fundamentals
-* 🐳 Practicing Docker
-* 🔄 Building CI/CD workflows
-* ☁️ Exploring AWS
-* 🧪 Building small projects to strengthen my practical skills
-
----
-
-### 📂 Featured Projects
-
-| Project                                                                                    | Description                                         |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| [CI/CD Starter Kit](https://github.com/maryamwaqas2810-hue/-cicd-starter-kit-sample-app)   | Hands-on CI/CD project and DevOps workflow practice |
-| [Docker Labs](https://github.com/maryamwaqas2810-hue/docker-labs)                          | Docker concepts and hands-on container practice     |
-| [Linux Notes](https://github.com/maryamwaqas2810-hue/linux-notes)                          | Linux commands, concepts and DevOps learning notes  |
-| [GitHub for DevOps](https://github.com/maryamwaqas2810-hue/GITHUB-FOR-DEVOPS)              | Git and GitHub practice for DevOps                  |
-| [Deployment Runbook](https://github.com/maryamwaqas2810-hue/Deployment-runbook-check-list) | Deployment and operational checklist                |
-
----
 
 ### 💭 A Little Reminder
 
@@ -88,7 +59,7 @@ I'm learning through **hands-on practice, labs and projects** rather than only s
 
 ---
 
-### 🔥 GitHub Stats
+### 🔥 GitHub Stats & Contribution Snake
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=maryamwaqas2810-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -97,6 +68,15 @@ I'm learning through **hands-on practice, labs and projects** rather than only s
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamwaqas2810-hue&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maryamwaqas2810-hue/maryamwaqas2810-hue/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maryamwaqas2810-hue/maryamwaqas2810-hue/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maryamwaqas2810-hue/maryamwaqas2810-hue/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -120,4 +100,3 @@ I'm learning through **hands-on practice, labs and projects** rather than only s
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=120&section=footer" />
 </p>
-

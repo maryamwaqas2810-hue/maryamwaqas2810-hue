@@ -1,69 +1,103 @@
-<h1 align="center">Hi, I'm Maryam 👋</h1>
-<h3 align="center">CS Student · Aspiring DevOps Engineer · WordPress Freelancer</h3>
+# Maryam Waqas — DevOps Enthusiast 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BSCS+Student+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Learning+Linux+%2B+Docker+%2B+CI%2FCD;WordPress+Freelancer+on+Fiverr;Building+my+way+into+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=BSCS+Student+from+Pakistan+🇵🇰;Learning+Linux+%7C+Git+%7C+Docker+%7C+CI%2FCD;Building+hands-on+DevOps+projects;Aspiring+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-waqass">
     <img src="https://img.shields.io/badge/LinkedIn-Maryam%20Waqas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://amnasabahat.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-amnasabahat.netlify.app-38BDF8?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 BSCS student, Computer Science
-- 🚀 Currently building my path toward a **DevOps** career — Linux → Git → Networking → AWS → Docker → CI/CD → Kubernetes
-- 💻 Also grow my skills in **Python + AI/ML** as a long-term complement to DevOps (aiming at MLOps down the line)
-- 🎨 Freelance WordPress developer — I design and build client websites on Fiverr
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/maryam-waqass)
+* 🎓 BSCS student from Pakistan
+* 🚀 Building my career toward **DevOps Engineering**
+* 🐧 Practicing Linux, Git, networking and cloud fundamentals
+* 🐳 Learning Docker and CI/CD through hands-on projects
+* ☁️ Currently exploring AWS
+* 💻 Also interested in Python, automation and AI/ML
+* 🌱 I learn by building, breaking and fixing things
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,aws,kubernetes,python,html,css,js,wordpress,react,figma" />
+### Currently Practicing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,python,html,css,js" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
 </p>
 
 ---
 
-### 📌 What I'm Working On
+## 🚀 DevOps Learning Journey
 
-- 🌱 Currently learning: **Networking fundamentals** and **AWS**
-- 🔧 Practicing DevOps tasks daily via hands-on labs
-- 🖥️ Freelancing on Fiverr as a WordPress developer
+```text
+Linux
+  ↓
+Git & GitHub
+  ↓
+Networking
+  ↓
+AWS
+  ↓
+Docker
+  ↓
+CI/CD
+  ↓
+Kubernetes
+```
+
+I'm following a hands-on approach and building projects along the way.
 
 ---
 
-### 🔥 GitHub Stats
+## 📂 Featured Projects
+
+| Project                                                                                    | What I Practiced                       |
+| ------------------------------------------------------------------------------------------ | -------------------------------------- |
+| [CI/CD Starter Kit](https://github.com/maryamwaqas2810-hue/-cicd-starter-kit-sample-app)   | CI/CD workflow and DevOps fundamentals |
+| [Docker Labs](https://github.com/maryamwaqas2810-hue/docker-labs)                          | Docker concepts and hands-on practice  |
+| [Linux Notes](https://github.com/maryamwaqas2810-hue/linux-notes)                          | Linux commands and DevOps notes        |
+| [GitHub for DevOps](https://github.com/maryamwaqas2810-hue/GITHUB-FOR-DEVOPS)              | Git/GitHub workflow practice           |
+| [Deployment Runbook](https://github.com/maryamwaqas2810-hue/Deployment-runbook-check-list) | Deployment and operational checklist   |
+
+---
+
+## 📚 Currently Learning
+
+* 🐧 Linux
+* 🌐 Networking fundamentals
+* ☁️ AWS
+* 🐳 Docker
+* 🔄 CI/CD
+* ☸️ Kubernetes
+* 🐍 Python automation
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maryamwaqas2810-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maryamwaqas2810-hue&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=maryamwaqas2810-hue&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamwaqas2810-hue&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
-### 📂 Featured Projects
+## 🎯 Goal
 
-| Project | Description |
-|---|---|
-| [linux-notes](https://github.com/maryamwaqas2810-hue/linux-notes) | Linux notes, commands and practice for my DevOps journey |
-| [SecureX](https://github.com/maryamwaqas2810-hue/SecureX) | Web project — HTML |
-| [FileHandlingproject](https://github.com/maryamwaqas2810-hue/FileHandlingproject) | Python file handling app with a Streamlit UI |
-| [to-do-list](https://github.com/maryamwaqas2810-hue/to-do-list) | To-do list app |
-| [Number-Guessing-Game](https://github.com/maryamwaqas2810-hue/Number-Guessing-Game) | Number guessing game |
+> Become a strong DevOps Engineer by building real projects, understanding systems deeply, and continuously improving my skills.
 
 ---
 
